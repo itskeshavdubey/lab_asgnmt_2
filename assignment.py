@@ -47,3 +47,5 @@ if __name__ == "__main__":
     employee_table.sort_table(sorting_parameter)
     print("\nSorted Employee Table:")
     employee_table.display_table()
+    
+    print("\nEnd")
