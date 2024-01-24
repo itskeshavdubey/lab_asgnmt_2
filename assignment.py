@@ -29,7 +29,6 @@ class EmployeeTable:
         for emp in self.employees:
             print(emp)
 
-# Example usage:
 if __name__ == "__main__":
     employee_table = EmployeeTable()
 
